@@ -9,6 +9,10 @@
 
   <name>practice-1</name>
   <url>http://maven.apache.org</url>
+  <properties>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
+  </properties>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
